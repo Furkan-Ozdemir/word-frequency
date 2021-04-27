@@ -1,0 +1,8 @@
+Welcome[edit]A PDF version of Chess is available. Prepared 19 July 2006, file size 3.3 MB (info)  
+A printable version of Chess is available.  (edit it)
+Chess is an ancient strategy game that originated in India.  It is played by two individuals on an 8×8 grid. The objective is to maneuver one's pieces so as to trap the opposing king in "checkmate". This book will cover the basic pieces of chess, before going on to some more advanced topics.
+The history of chess began in India during the Gupta Empire, where its early form in the 6th century CE was known as chaturanga, which translates as "four divisions of the military" – infantry, cavalry, elephants, and chariotry, represented by the pieces that would evolve into the modern pawn, knight, bishop, and rook, respectively.
+In Sassanid Persia around 600 CE, the name became shatranj, and the rules were developed further.  Shatranj was taken up by the Muslim world after the Islamic conquest of Persia, with the pieces largely retaining their Persian names.  In Spanish, "shatranj" was rendered as ajedrez, in Portuguese as xadrez, and in Greek as zatrikion, but in the rest of Europe it was replaced by versions of the Persian shāh ("king").
+Table of Contents[edit]Arranging The BoardPlaying The GameNotating The GameTacticsTactics ExercisesStrategyBasic OpeningsSample chess gameThe EndgameVariantsTournamentsFamous GamesPuzzlesComputer ChessOptional homeworkRelated Wikibooks[edit]Chess Opening Theory treats the chess openings in much more detail.Chess Strategy provides a more detailed understanding of chess strategy.
+
+
